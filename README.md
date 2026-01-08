@@ -8,11 +8,7 @@ Designed for simplicity, speed, and a clean custom UI.
 ## ✨ Features
 - ⌨️ Custom key sequences (comma separated)
 - ⏱️ Adjustable delay between key presses
-- 🎨 Clean custom UI with custom title bar
 - 📌 Always-on-top window
-- 🚫 No console window
-- 🪶 Lightweight and portable
-
 ---
 
 ## 📥 Installation (Windows)
